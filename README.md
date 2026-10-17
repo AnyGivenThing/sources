@@ -4,3 +4,4 @@ Sources and notes for the videos of [Any Given Thing](https://www.youtube.com/@A
 moment it appears in the video, and the sources behind it.
 
 - [How Brazil Turned Hostile Soil Into a Farming Superpower](https://anygiventhing.github.io/sources/v0001-how-brazil-turned-hostile-soil-into-a-farming-superpower/)
+- [Why Your Breakfast Secretly Depends on the Strait of Hormuz](https://anygiventhing.github.io/sources/v0002-the-strait-of-hormuz/)
